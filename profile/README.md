@@ -29,7 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Integrating Navigator.onLine into React-Redux](https://medium.com/@DominicScanlan/integrating-navigator-online-into-react-redux-bf2bcf2d4f1f?source=rss-be2796a87f9b------2)
+- [Bots with Nodejs](https://medium.com/@DominicScanlan/bots-with-nodejs-9e2b477bace1?source=rss-be2796a87f9b------2)
+- [Delving further into Redis](https://medium.com/@DominicScanlan/delving-further-into-redis-1ae9d1d11c99?source=rss-be2796a87f9b------2)
+- [Socket.IO Checkers game with Redis and Angularjs](https://medium.com/@DominicScanlan/socket-io-checkers-game-with-redis-and-angularjs-cd388d379b00?source=rss-be2796a87f9b------2)
+- [Passport Node Authentication Part 2](https://medium.com/@DominicScanlan/passport-node-authentication-part-2-5db40a7aa2f4?source=rss-be2796a87f9b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
