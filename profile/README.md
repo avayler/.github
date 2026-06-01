@@ -28,19 +28,6 @@
 
 ---
 
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Integrating Navigator.onLine into React-Redux](https://medium.com/@DominicScanlan/integrating-navigator-online-into-react-redux-bf2bcf2d4f1f?source=rss-be2796a87f9b------2)
-- [Bots with Nodejs](https://medium.com/@DominicScanlan/bots-with-nodejs-9e2b477bace1?source=rss-be2796a87f9b------2)
-- [Delving further into Redis](https://medium.com/@DominicScanlan/delving-further-into-redis-1ae9d1d11c99?source=rss-be2796a87f9b------2)
-- [Socket.IO Checkers game with Redis and Angularjs](https://medium.com/@DominicScanlan/socket-io-checkers-game-with-redis-and-angularjs-cd388d379b00?source=rss-be2796a87f9b------2)
-- [Passport Node Authentication Part 2](https://medium.com/@DominicScanlan/passport-node-authentication-part-2-5db40a7aa2f4?source=rss-be2796a87f9b------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <!--
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=avayler&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
